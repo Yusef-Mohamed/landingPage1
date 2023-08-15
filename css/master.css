@@ -387,3 +387,16 @@ h3 {
   width: 200px;
   height: 200px;
 }
+/* .icon:hover {
+  overflow: hidden;
+  animation: an 10s infinite;
+  -webkit-animation: an 10s infinite;
+  position: relative;
+}
+i {
+  position: absolute;
+}
+@keyframes an {
+  50% {
+  }
+} */
